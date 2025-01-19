@@ -9,20 +9,22 @@
     </style>
 </head>
 <body>
-    # Bem-vindo ao Lar De Morya
+    <h1>Bem-vindo ao Lar De Morya</h1>
 
-    ## Quem Somos?
+    <h2>Quem Somos?</h2>
 
-    O **Lar De Morya** é um templo de **Umbanda Universalista** localizado em **Itaipuaçu**. É liderado por **Janaína Coser** e **Marcos Guerra**, e está sob a égide do **Mestre Ascensionado Morya**.
+    <p>O <strong>Lar De Morya</strong> é um templo de <strong>Umbanda Universalista</strong> localizado em <strong>Itaipuaçu</strong>. É liderado por <strong>Janaína Coser</strong> e <strong>Marcos Guerra</strong>, e está sob a égide do <strong>Mestre Ascensionado Morya</strong>.</p>
 
-    Aqui você pode encontrar as seguintes seções:
+    <p>Aqui você pode encontrar as seguintes seções:</p>
 
-    - [Gira de Orixá](playlistOrixa.md)
-    - [Cantigas de Exu](playlistsExu.md)
-    - [Cantigas de Caboclo/Boiadeiro](playlistCaboclo.md)
-    - [Cantigas de Erê](playlistEre.md)
-    - [Cantigas de Preto Velho](playlistPretoVelho.md)
-    - [Downloads de Apostilas](materiais.md)
-    - [Textos Institucionais](blog.md)
+    <ul>
+        <li><a href="playlistOrixa.md">Gira de Orixá</a></li>
+        <li><a href="playlistsExu.md">Cantigas de Exu</a></li>
+        <li><a href="playlistCaboclo.md">Cantigas de Caboclo/Boiadeiro</a></li>
+        <li><a href="playlistEre.md">Cantigas de Erê</a></li>
+        <li><a href="playlistPretoVelho.md">Cantigas de Preto Velho</a></li>
+        <li><a href="materiais.md">Downloads de Apostilas</a></li>
+        <li><a href="blog.md">Textos Institucionais</a></li>
+    </ul>
 </body>
 </html>

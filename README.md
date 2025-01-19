@@ -1,2 +1,0 @@
-# LarDeMorya
-DocEspiritual
